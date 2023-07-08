@@ -10,7 +10,7 @@ from movies_scraper import search_movies, get_movie
 
 TOKEN = os.getenv("TOKEN")
 URL = os.getenv("https://netflix-theta-nine.vercel.app/")
-bot = Bot(TOKEN)
+bot = Bot(6311356775:AAGHAa_J_PjOBF8FvWATNEm7dsaEmFR0YMA)
 
 
 def welcome(update, context) -> None:
